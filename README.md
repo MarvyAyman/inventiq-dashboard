@@ -3,7 +3,7 @@
 > **End-to-end inventory intelligence system** built on Google Cloud free tier.  
 > Covers executive capital health, warehouse operations, and ML-powered demand forecasting.
 
-**🔗 Live Dashboard:** [View on Looker Studio](#) ← replace with your link  
+**🔗 Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/reporting/532a4f82-c811-4325-bc70-f40bd692ffae) 
 **🛠 Stack:** Looker Studio · Google BigQuery · BigQuery ML (ARIMA_PLUS) · Google Colab  
 **📦 Dataset:** [Inventory Analysis Case Study — Kaggle](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
 
