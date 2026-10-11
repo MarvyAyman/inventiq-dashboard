@@ -73,7 +73,6 @@ Daily action items for warehouse and inventory managers.
 
 ---
 
-```
 
 ## BigQuery Data Model
 
@@ -182,6 +181,5 @@ Model: **BigQuery ML ARIMA_PLUS** trained on 60 days of daily sales (Jan–Feb 2
 
 **Marvy** — Freelance BI & Data Analyst  
 Specialising in Looker Studio · Power BI · BigQuery · Python  
-Open to remote data analyst roles — UK · Poland · Germany · Netherlands  
 
-[LinkedIn](#) · [Portfolio](#) ← add your links
+[LinkedIn](https://www.linkedin.com/in/marvy-ayman/?isSelfProfile=true)
